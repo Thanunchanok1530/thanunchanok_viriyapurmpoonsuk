@@ -53,7 +53,7 @@ function NewPage() {
                 {news.map((item, idx) => {
                     const img = getImage(item) || placeholder;
                     return (
-                        <div key={item.link || item.title || idx} className="bg-zinc-600 w-full rounded-xl p-2">
+                        <div key={item.link || item.title || idx} className="bg-orange-600 w-full rounded-xl p-2">
                             <div className="h-48 overflow-hidden rounded-md bg-gray-200 flex items-center justify-center">
                                 {
                                     // clicking image opens details

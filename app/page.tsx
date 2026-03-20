@@ -14,9 +14,13 @@ function HomePage() {
         <br></br>
         <a href="/form">บทเรียนที่ 3 State ของการลงทะเบียน</a>
         <br></br>
-        <a href="/hide">การบ้าน State ของการแสดง/ซ่อน ข้อความ</a>
+        <a href="/hidetext">บทเรียนที่ 4 State ของการแสดง/ซ่อน ข้อความ</a>
         <br></br>
-        <a href="/jikan">บทเรียนที่ 4 API Jikan</a>
+        <a href="/jikan">บทเรียนที่ 5 API Jikan</a>
+        <br></br>
+        <a href="/steam">บทเรียนที่ 6 API Steam</a>
+        <br></br>
+        <a href="/new">บทเรียนที่ 7 API News</a>
         <br></br>
       </div>
     </div>
